@@ -14,6 +14,6 @@
 14 }
 15
 16 int main() {
-17 int total = sumTo(3);
+17 int total = sumTo(3); // chaged it to 5 once (_( 
 18 cout << "Total = " << total << endl;
 19 r
